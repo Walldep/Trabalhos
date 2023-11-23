@@ -1,0 +1,2 @@
+teste de edição local do git
+para envio ao github.
